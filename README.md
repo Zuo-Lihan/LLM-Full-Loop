@@ -43,7 +43,7 @@
 		--- vicuna-7b-v1.5_final_response.jsonl
 
 		### [2]. Baseline
-		run the comparison study. √ （factuality evaluation has not run yet）
+		run the comparison study. √ 
 		--eval_num=50
 		the results are load in:
 		/root/autodl-tmp/Results_baseline_vicuna-7b-v1.5/MASHQA=========
