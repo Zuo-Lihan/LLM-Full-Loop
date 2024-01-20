@@ -1,5 +1,5 @@
-# NLP-Full-Loop
-# <Full-Loop by Fusion Knowledge, Fusion Scorers, and Entailment to Mitigate Hallucination in Large Language Models>
+# Full-Loop
+# Paper coding: <Full-Loop by Fusion Knowledge, Fusion Scorers, and Entailment to Mitigate Hallucination in Large Language Models>
 
 ***I run the experiments with 3 models (Baselines and MyLoops) and 2 datasets. (select 50 questions) 
 **Forgive me:
