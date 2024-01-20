@@ -7,17 +7,19 @@
 *********************************************************************************************************
 ***************************************contributions****************************************************
 1. Add one more 'Factuality evaluation' on these 3 models to make an analysis of the hallucinations
-2. Do my improvements: 
-	Methods: 
+2. Do my improvements:
+   
+	Methods:
+
 		(1) fusion knowledge with retrieved message
 		(2) design a factuality scorer with the help of the GPT-3.5-turbo
 	 	(3) fusion-scorer loop
 		(4) entailment judge loop
 	
 	Experiments:
+
 		(1) Hallucination analysis
 		(2) 50 samples to evaluate the proposed methods
-		(3) Ablation study
 *********************************************************************************************************
 *********************************************************************************************************
 =======================================================================================
