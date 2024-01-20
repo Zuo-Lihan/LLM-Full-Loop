@@ -168,7 +168,7 @@
 		/root/autodl-tmp/Results_baseline_medAlpaca-7b/MEDIQA/=========
 		--- medAlpaca-7b_response.jsonl
 =======================================================================================
-* ## Evaluations: [Precision, Recall, F1, R-L, CtrlEval, MedNLI-Spl, MedNLI-Sent, MaHR, MiHR]
+* ## Evaluations: [Precision, Recall, F1, R-L, CtrlEval, MedNLI-Spl, MedNLI-Sent]
 ###
  	·Precision
  	·Recall
@@ -179,6 +179,6 @@
 	·MedNLI-Sent
 =======================================================================================
 Shortcut: There is much room for improvement. Some details need to be improved.
-               The Loop method is not applicaple to every model,
-               for example, the medAlpaca usually can't generate valid response to a long input sentence,
-               which means the fusion-knowledge is not applicable and then results that the Loop method is useless. 
+               The Loop method does not apply to every model,
+               the MedAlpaca usually can't generate valid responses to a long input sentence,
+               which means the Fusion-Knowledge is not applicable, and then the results of the Loop method are useless for MedAlpaca. 
