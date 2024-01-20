@@ -6,7 +6,7 @@
                       (time limited---because of the 'entailment' of human, it's a quite quite time-consuming task, and no better GPU at home)
 *********************************************************************************************************
 ***************************************contributions****************************************************
-1. Add one more 'Factuality evaluation' on these 3 models to make an analysis of the hallucinations
+1. Add 'Factuality evaluation' on these 3 models to mitigate hallucinations.
 2. Do my improvements:
    
 	Methods:
