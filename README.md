@@ -11,7 +11,7 @@
    
 	Methods:
 
-		(1) fusion knowledge with retrieved message
+		(1) fusion knowledge with additional retrieved message
 		(2) design a factuality scorer with the help of the GPT-3.5-turbo
 	 	(3) fusion-scorer loop
 		(4) entailment judge loop
