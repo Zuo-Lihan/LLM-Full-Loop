@@ -1,0 +1,2 @@
+compare with answer
+0.68	0.5783333333333334

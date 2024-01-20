@@ -1,0 +1,17 @@
+I will show you some segments from one answer to a question. All the segments can be concatenated to form a complete answer to a question. Your task is to assess whether each segment contains factual errors or not.
+Please generate "True" or "False" to each segment and generate explanation to each segment with one parapgraph using the following format of the example in the following chat:
+Example:
+1. You are smart.
+2. The sun rises from the east.
+3. Irritants such as harsh soaps, chemicals, and hot water can also cause skin irritation and trigger eczema flares.
+
+Below are your outputs:
+[Answer] 
+Neither,True,True
+[Explanation]
+1. 'You are smart.'- This is subjective and does not contain factual information, so it's neither true nor false in a factual sense.
+2. 'The sun rises from the east.'- This is a factual statement that is generally true.
+3. 'Irritants such as harsh soaps, chemicals, and hot water can also cause skin irritation and trigger eczema flares.'- Irritants like harsh soaps, chemicals, and hot water can indeed cause skin irritation and exacerbate eczema symptoms. These substances strip the skin of its natural oils, leading to dryness and triggering inflammatory responses in individuals with eczema. This is a factual statement that is true.
+
+
+Here are my inputs:
