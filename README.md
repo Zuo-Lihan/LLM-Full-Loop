@@ -8,7 +8,8 @@
 ***************************************contributions****************************************************
 1. Add 'Factuality evaluation' on these 3 models to mitigate hallucinations.
 2. Do my improvements:
-   
+   	![image](https://github.com/Zuo-Lihan/LLM-Full-Loop/assets/87290137/d630abbe-5379-442a-8fa3-e0510ef9c4ba)
+
 	Methods:
 
 		(1) fusion knowledge with additional retrieved message
@@ -186,5 +187,5 @@ Issue: There is much room for improvement. Some details need to be improved.
 
 ***********************************************************
 * ## Results (The results are really too bad now  (>.<) )
-![Uploading image.png…]()
+![image](https://github.com/Zuo-Lihan/LLM-Full-Loop/assets/87290137/597a8810-a6c5-4d4b-8873-ce863bab9c5d)
 ***********************************************************
