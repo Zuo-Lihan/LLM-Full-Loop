@@ -183,3 +183,8 @@ Issue: There is much room for improvement. Some details need to be improved.
                The Loop method does not apply to every model,
                the MedAlpaca usually can't generate valid responses to a long input sentence,
                which means the Fusion-Knowledge is not applicable, and then the results of the Loop method are useless for MedAlpaca. 
+
+***********************************************************
+* ## Results (The results are really too bad now  (>.<) )
+![Uploading image.png…]()
+***********************************************************
