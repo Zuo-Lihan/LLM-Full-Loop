@@ -1,9 +1,10 @@
 # Full-Loop
-# Paper coding: <Full-Loop by Fusion Knowledge, Fusion Scorers, and Entailment to Mitigate Hallucination in Large Language Models>
+# Paper coding: 
+ # <Full-Loop by Fusion Knowledge, Fusion Scorers, and Entailment to Mitigate Hallucination in Large Language Models>
 
 ***I run the experiments with 3 models (Baselines and MyLoops) and 2 datasets. (select 50 questions) 
 **Forgive me:
-                      (time limited---because of the 'entailment' of human, it's a quite quite time-consuming task, and no better GPU at home)
+(time limited---because of the 'entailment' of humans, it's a quite quite time-consuming task, and no better GPU at home)
 *********************************************************************************************************
 ***************************************contributions****************************************************
 1. Add 'Factuality evaluation' on these 3 models to mitigate hallucinations.
@@ -21,7 +22,6 @@
 
 		(1) Hallucination analysis
 		(2) 50 samples to evaluate the proposed methods
-*********************************************************************************************************
 *********************************************************************************************************
 =======================================================================================
 * ## Experiments Record:
